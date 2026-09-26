@@ -1,0 +1,1 @@
+{"name":"fury-hub-bot","version":"0.1.0","private":true,"type":"module","scripts":{"start":"node src/index.js","register":"node src/register.js"},"dependencies":{"@supabase/supabase-js":"^2.57.4","discord.js":"^14.22.1","dotenv":"^17.2.2"}}
